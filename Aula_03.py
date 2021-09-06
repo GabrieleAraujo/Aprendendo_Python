@@ -36,8 +36,7 @@ else:
     print('Você foi aprovado com: {}' .format(media))
 
 
-
-
+#-------------------------------------------------------------------------------
 
 
 # #Verificar se o número é Par ou Impar:
@@ -54,7 +53,7 @@ else:
 
 
 
-
+#-------------------------------------------------------------------------------
 
 
 # Entrada de valores e Condições IF, ELIF e ELSE
