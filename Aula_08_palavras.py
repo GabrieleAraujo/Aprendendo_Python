@@ -13,5 +13,6 @@ def contador_letras(lista_palavras):
 
 if __name__ == '__main__':  
 
+
     lista = ['chachorro', 'gato']
     print(contador_letras(lista))
