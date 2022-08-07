@@ -3,7 +3,7 @@
     #Método: Não retornar
 
 
-# MÉTODOS: definição 
+# MÉTODOS: definiçãoo
 
 #Calculadora
 class Calculadora:                              #criando uma classe
